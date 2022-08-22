@@ -1,5 +1,5 @@
 # Law Home Page
-This is a practice project which helped me to understand comcepts of HTML and CSS. This project is purely made with the help of HTML and CSS. [Live Link to the project](https://sarthak-live-project-03.netlify.app/.
+This is a practice project which helped me to understand comcepts of HTML and CSS. This project is purely made with the help of HTML and CSS. [Live Link to the project](https://sarthak-live-project-03.netlify.app/).
 ## Technologies I Learn during this Project
   - HTML5
   - CSS3
